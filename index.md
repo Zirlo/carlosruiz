@@ -43,7 +43,7 @@ Spanish: Native | English: Fluent
 
 ### Director of Marketing @Political Consultancy 
 
-- I led political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collected and categorized data to understand social phenomena, processed information, and generated key concepts for messaging that was broadcasted across social media, television, radio, and other mass communication channels.
+- I led political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collected and categorized data to understand social phenomena, processed information, and generated key concepts for the discourse that was broadcasted across social media, television, radio, and other mass communication channels.
 
 
 ### Co-Founder @Zacate Consulting 
