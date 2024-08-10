@@ -75,9 +75,9 @@ Spanish: Native | English: Fluent
 - [¿Qué es el postcapitalismo? - Pensar más alla del capital](https://hipersticion.substack.com/p/que-es-el-postcapitalismo)
 - [El castillo de vampiros](https://hipersticion.substack.com/p/el-castillo-de-vampiros)
 - [El Diálogo No Ha Muerto - Calaverita para la Universidad Autónoma de Sinaloa](https://hipersticion.substack.com/p/el-dialogo-no-ha-muerto)
-- [Volaris: La Estafa Maestra](https://hipersticion.substack.com/p/volaris-la-estafa-maestra)
+- [Volaris: La Estafa Maestra - La peor aerolínea de México](https://hipersticion.substack.com/p/volaris-la-estafa-maestra)
 - [La Dialéctica de Platón](https://hipersticion.substack.com/p/la-dialectica-de-platon)
-- [sobre Nick Land el filósofo de la virtualidad](https://hipersticion.substack.com/p/sobrenickland)
+- [Sobre Nick Land - El Filósofo de la Virtualidad](https://hipersticion.substack.com/p/sobrenickland)
 
 
 ## CONTACT
