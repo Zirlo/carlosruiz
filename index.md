@@ -3,22 +3,19 @@
 
 ## EDUCATION
 
-- _Tec de Monterrey Campus Sinaloa_ | Bachelor's Degree in Financial Administration
+- _Tec de Monterrey Campus Sinaloa_ | Bachelor's Degree in Financial Administration (2012)
 
-- _Universidad Pontificia Comillas de Madrid_ | Specialization in International Relations
+- _Universidad Pontificia Comillas de Madrid_ | Specialization in International Relations (2011)
 
-- _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy
+- _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy (2022) 
 
 ## COURSES
 
-Disney Institute Business Programs - 
-Disney by Design & Innovation in Action
+- Disney Institute Business Programs - Disney by Design & Innovation in Action
 
-Actinver Brokerage House - 
-Training Course in Financial Fundamental Analysis
+- Actinver Brokerage House - Training Course in Financial Fundamental Analysis
 
-Economatica - 
-Training Course in Technical Stock Market Analysis
+- Economatica - Training Course in Technical Stock Market Analysis
 
 
 ## PROFESSIONAL EXPERIENCE 
