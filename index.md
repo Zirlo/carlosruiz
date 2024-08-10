@@ -3,14 +3,11 @@
 
 ## EDUCATION
 
-_Tec de Monterrey Campus Sinaloa_ - 
-Bachelor's Degree in Financial Administration
+- _Tec de Monterrey Campus Sinaloa_ | Bachelor's Degree in Financial Administration
 
-_Universidad Pontificia Comillas de Madrid_ - 
-Specialization in International Relations
+- _Universidad Pontificia Comillas de Madrid_ | Specialization in International Relations
 
-_Universidad Nacional Autónoma de México_ - 
-Bachelor's Degree in Philosophy
+- _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy
 
 ## COURSES
 
