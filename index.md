@@ -1,8 +1,7 @@
-CARLOS MANUEL RUIZ JIMÉNEZ
 
-BUSINESS ANALYST & MARKETING STRATEGIST
+# BUSINESS ANALYST & MARKETING STRATEGIST
 
-EDUCATION
+## EDUCATION
 
 Tec de Monterrey - Campus Sinaloa
 Bachelor's Degree in Financial Administration
@@ -13,7 +12,7 @@ Specialization in International Relations
 Universidad Nacional Autónoma de México
 Bachelor's Degree in Philosophy
 
-COURSES
+## COURSES
 
 Disney Institute Business Programs
 Disney by Design & Innovation in Action
@@ -25,7 +24,7 @@ Economatica
 Training Course in Technical Stock Market Analysis
 
 
-PROFESSIONAL EXPERIENCE 
+## PROFESSIONAL EXPERIENCE 
 
 Universidad Autónoma de sinaloa, Universidad San Sebastián y Universidad San Miguel - Instructor
 I teach courses in various fields, including Administration, Finance, Marketing, Economics, and Politics.
@@ -45,19 +44,19 @@ I created innovative communication strategies based on data analysis for a diver
 SAGARPA - Deputy Director
 Served as Deputy Director of Human Resources and Materials in the department of Agriculture. I managed budgets, supervised hiring processes, and trained personnel.
 
-BANAMEX - Professional Intern
+## BANAMEX - Professional Intern
 Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
 
-LANGUAGES:
+## LANGUAGES:
 
 Spanish: Native
 English: Fluent
 
-SKILLS
+## SKILLS
 Microsoft Office, Google Workspace,
 Project Management Tools, Power BI, SQL
 
-CONTACT
+## CONTACT
 
 +52-6673-474848
 lic.carlosmanuel@gmail.com
