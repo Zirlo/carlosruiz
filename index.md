@@ -9,6 +9,12 @@
 
 - _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy (2022) 
 
+## SKILLS
+**Excel, Google Workspace, , Power BI, SQL, WIX**
+
+## LANGUAGES
+Spanish: Native | English: Fluent
+
 ## COURSES
 
 - Disney Institute Business Programs - Disney by Design & Innovation in Action
@@ -52,13 +58,18 @@
 ### Professional Intern - BANAMEX
 - Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
 
-## LANGUAGES:
 
-Spanish: Native
-English: Fluent
+###NEWSPAPER COLUMNIST
+Análisis de Resultados Electorales de 2018 y 2024 en México(https://politikmnte.com/2024/06/analisis-de-resultados-electorales-de-2018-y-2024-en-mexico/)
+Discurso Polarizado vs. Discurso Auténtico(https://politikmnte.com/2024/04/discurso-polarizado-vs-discurso-autentico/)
+La Traición al Pueblo de México(https://politikmnte.com/2024/04/la-traicion-al-pueblo-de-mexico/) 
+Máquina para votar(https://politikmnte.com/2024/03/maquina-para-votar/) 
 
-## SKILLS
-Excel, Google Workspace, , Power BI, SQL, WIX
+###PERSONAL BLOG
+https://hipersticion.substack.com/
+
+Arte y Técnica - Teoría Estética de Theodor Adorno (https://hipersticion.substack.com/p/arte-y-tecnica-adorno)
+
 
 ## CONTACT
 
