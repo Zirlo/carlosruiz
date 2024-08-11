@@ -3,11 +3,12 @@
 
 ## EDUCATION
 
+- _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy (2022)
+
 - _Instituto Tecnológico y de Estudios Superiores De Monterrey_ | Bachelor's Degree in Financial Administration (2012)
 
 - _Universidad Pontificia Comillas de Madrid_ | Specialization in International Relations (2011)
 
-- _Universidad Nacional Autónoma de México_ | Bachelor's Degree in Philosophy (2022) 
 
 ## SKILLS
 **Excel, Google Workspace, , Power BI, SQL, WIX**
