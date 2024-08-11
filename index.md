@@ -11,7 +11,7 @@
 
 
 ## SKILLS
-**Excel, Google Workspace, , Power BI, SQL, WIX**
+**Excel, Google Workspace, Power BI, SQL, WIX**
 
 ## LANGUAGES
 Spanish: Native | English: Fluent
@@ -35,7 +35,7 @@ Spanish: Native | English: Fluent
 
 #### Co-owner @Digital Center (January 2007 - July 2022)
 
-- I was responsible for administration, digital marketing, and web design for the sale of technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
+- I was responsible of administration, digital marketing, and web design for selling technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
 
 
 #### Assistant to the Director of Information @Heraldo De México TV (January 2019 - March 2020)
