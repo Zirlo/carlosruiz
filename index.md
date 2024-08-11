@@ -1,3 +1,4 @@
+[Curriculum en Español](./español.html).
 
 # BUSINESS ANALYST & MARKETING STRATEGIST
 
