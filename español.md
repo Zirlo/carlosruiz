@@ -18,7 +18,7 @@ Español: Nativo | Inglés: Fluido
 
 ## EXPERIENCIA PROFESIONAL 
 
-#### Instructor @_Universidad Autónoma de Sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (Febrero 2022 - Presente)
+#### Profesor @_Universidad Autónoma de Sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (Febrero 2022 - Presente)
 
 - Imparto cursos en diversas áreas, incluyendo Administración, Finanzas, Mercadotecnia, Economía y Política.
 
@@ -53,20 +53,24 @@ Español: Nativo | Inglés: Fluido
 ## CLIENTES Y COLABORADORES
 
 **Productos**
--  [_Laika Notebooks_](https://www.instagram.com/laikanotebooks/)
--  [Pinchef](https://www.instagram.com/pinchefmx/)
--  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
--  [Primavera](https://www.instagram.com/primavera.mx/)
 -  [_The Coca-Cola Company_](https://www.coca-cola.com/mx/es)
 -  [_Chedraui Mexican Supermarket Company_](https://www.chedraui.com.mx/)
+-  [_Laika Notebooks_](https://www.instagram.com/laikanotebooks/)
+-  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
+-  [Primavera](https://www.instagram.com/primavera.mx/)
+-  [Pinchef](https://www.instagram.com/pinchefmx/)
+
+
 
 **Servicios**
--  [_Zentik Proyect_](https://www.instagram.com/zentikproject/)
 -  [_Extractive Industries Transparency Initiative_](https://eiti.org/)
+-  [_Zentik Proyect_](https://www.instagram.com/zentikproject/)
+
 
 **Política**
--  [Partido Revolucionario Institucional](https://pri.org.mx/ElPartidoDeMexico/)
 -  [Movimiento Ciudadano](https://movimientociudadano.mx/)
+-  [Partido Revolucionario Institucional](https://pri.org.mx/ElPartidoDeMexico/)
+
 
 
 ## CURSOS
@@ -77,7 +81,7 @@ Español: Nativo | Inglés: Fluido
 
 - Economatica | Curso de Capacitación en Análisis Técnico Bursátil
   
-- Universidad Pontificia Comillas de Madrid | Clase Optativa en Comunicación Política y Gestión de Campaña
+- Universidad Pontificia Comillas de Madrid | Clase Optativa en Comunicación Política y Gestión de Campañas 
 
 
 ## COLUMNISTA DE PERIÓDICO
