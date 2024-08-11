@@ -61,20 +61,23 @@ Spanish: Native | English: Fluent
 ## CLIENTS & COLLABORATORS
 
 **Products**
--  [Laika Notebooks](https://www.instagram.com/laikanotebooks/)
--  [Pinchef](https://www.instagram.com/pinchefmx/)
--  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
--  [Primavera](https://www.instagram.com/primavera.mx/)
 -  [The Coca-Cola Company](https://www.coca-cola.com/mx/es)
 -  [Chedraui Mexican Supermarket Company](https://www.chedraui.com.mx/)
+-  [Laika Notebooks](https://www.instagram.com/laikanotebooks/)
+-  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
+-  [Primavera](https://www.instagram.com/primavera.mx/)
+-  [Pinchef](https://www.instagram.com/pinchefmx/)
+
 
 **Services**
+-  [Extractive Industries Transparency Initiative](https://eiti.org/)
 -  [Zentik Proyect](https://www.instagram.com/zentikproject/)
--  [Extractive Industries Transparency Initiative (EITI)](https://eiti.org/)
+
 
 **Politics**
--  [Partido Revolucionario Institucional](https://pri.org.mx/ElPartidoDeMexico/)
--  [Movimiento Ciudadano](https://movimientociudadano.mx/)
+-  [_Movimiento Ciudadano_](https://movimientociudadano.mx/)
+-  [_Partido Revolucionario Institucional_](https://pri.org.mx/ElPartidoDeMexico/)
+
 
 
 ## COURSES
