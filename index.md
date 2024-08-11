@@ -76,7 +76,7 @@ Spanish: Native | English: Fluent
 
 - [Arte y Técnica - Teoría Estética de Theodor Adorno](https://hipersticion.substack.com/p/arte-y-tecnica-adorno)
 - [El Dominio Hegemónico de la Cuarta Transformación - Año2040](https://hipersticion.substack.com/p/el-dominio-hegemonico-de-la-cuarta)
-- [El Poder y la Legitimación de la Autoridad | Según Juan Escoto Erígena](https://hipersticion.substack.com/p/el-poder-y-la-legitimacion-de-la)
+- [El Poder y la Legitimación de la Autoridad - Según Juan Escoto Erígena](https://hipersticion.substack.com/p/el-poder-y-la-legitimacion-de-la)
 - [2112 d.c. - El metaverso del bienestar](https://hipersticion.substack.com/p/2112-dc)
 - [¿Qué es hiperstición? - La voz profética de la serie: Los Supersónicos](https://hipersticion.substack.com/p/que-es-hipersticion)
 - [¿Qué es el postcapitalismo? - Pensar más alla del capital](https://hipersticion.substack.com/p/que-es-el-postcapitalismo)
