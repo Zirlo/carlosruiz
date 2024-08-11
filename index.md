@@ -112,8 +112,8 @@ Spanish: Native | English: Fluent
 
 ## CONTACT
 
-Mobile: +52-6673-474848
-email: lic.carlosmanuel@gmail.com
-[www.linkedin.com/in/carlos-manuel-ruiz-jimenez](www.linkedin.com/in/carlos-manuel-ruiz-jimenez)
+- Whatsapp: +52-6673-474848
+- email: lic.carlosmanuel@gmail.com
+- [www.linkedin.com/in/carlos-manuel-ruiz-jimenez](www.linkedin.com/in/carlos-manuel-ruiz-jimenez)
 
 
