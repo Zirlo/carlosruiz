@@ -22,6 +22,10 @@ Spanish: Native | English: Fluent
 
 - I teach courses in various fields, including Administration, Finance, Marketing, Economics, and Politics.
 
+#### Business Analyst @Freelance
+
+-I focus on identifying business needs and proposing data-driven solutions to enhance organizational performance. My role involves gathering and analyzing data, using tools such as SQL, Excel and Power BI, to uncover trends and areas for improvement. I collaborate closely with stakeholders across various departments to understand their challenges and translate them into actionable recommendations. My work supports strategic decision-making, optimizes business processes, and drives successful project outcomes, contributing to the overall growth and efficiency of the organization.
+
 
 #### Co-owner @Digital Center 
 
