@@ -32,7 +32,7 @@ Español: Nativo | Inglés: Fluido
 
 #### Copropietario @Digital Center (Enero 2007 - Julio 2022)
 
-- Construí una empresa que permaneció en el mercado durante 15 años. Fui responsable de la administración, marketing digital y diseño web para la venta de componentes tecnológicos enfocados en el armado de computadoras. Lideré un equipo que proporcionó consistentemente soluciones innovadoras utilizando el design thinking para comprender la experiencia de los usuarios y su cultura.
+- Construí una empresa que permaneció en el mercado durante 15 años. Fui responsable de la administración, marketing digital y diseño web para la venta de componentes tecnológicos enfocados en el armado de computadoras. Lideré un equipo que proporcionó consistentemente soluciones innovadoras mediante el proceso _design thinking_ para comprender la experiencia de los usuarios y su cultura.
 
 #### Asistente del Director de Información @Heraldo de México TV (Enero 2019 - Marzo 2020)
 
@@ -40,7 +40,7 @@ Español: Nativo | Inglés: Fluido
 
 #### Cofundador @Zacate Consulting (Septiembre 2016 - Septiembre 2018)
 
-- Creé estrategias de comunicación innovadoras adaptadas a las necesidades únicas de diferentes tipos de clientes. Para startups emergentes, me enfoqué en construir la identidad de marca y la presencia en el mercado desde cero, utilizando insights basados en datos para elaborar mensajes dirigidos que resonaran con sus audiencias específicas. Para grandes corporaciones nacionales y globales, apliqué un enfoque más integral, integrando esfuerzos de marketing multicanal que alinearan los valores establecidos de la marca con las tendencias del mercado y el comportamiento del consumidor. Mis estrategias incluyeron desde campañas de marketing digital hasta alcance mediático tradicional, asegurando una comunicación coherente e impactante en todas las plataformas.
+- Creé estrategias de comunicación innovadoras adaptadas a las necesidades únicas para diferentes tipos de clientes. Para startups emergentes, me enfoqué en construir la identidad de marca y la presencia en el mercado desde cero; utilizando insights basados en datos para elaborar mensajes dirigidos que resonaran con sus audiencias específicas. Para grandes corporaciones nacionales y globales, apliqué un enfoque más integral, integrando esfuerzos de marketing multicanal que alinearan los valores establecidos de la marca con las tendencias del mercado y el comportamiento del consumidor. Mis estrategias incluyeron desde campañas de marketing digital hasta alcance mediático tradicional, asegurando una comunicación coherente e impactante en todas las plataformas.
 
 #### Subdirector @SAGARPA (Marzo 2012 - Octubre 2015)
 
