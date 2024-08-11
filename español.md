@@ -1,4 +1,4 @@
-
+[English Curriculum](./index.html)
 
 # ANALISTA DE NEGOCIOS Y ESTRATEGA DE MARKETING
 
