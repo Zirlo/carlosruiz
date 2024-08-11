@@ -18,41 +18,43 @@ Spanish: Native | English: Fluent
 
 ## PROFESSIONAL EXPERIENCE 
 
-#### Instructor @_Universidad Autónoma de sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ 
+#### Instructor @_Universidad Autónoma de sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (February 20222 - Present)
 
 - I teach courses in various fields, including Administration, Finance, Marketing, Economics, and Politics.
 
-#### Business Analyst @Freelance
 
--I focus on identifying business needs and proposing data-driven solutions to enhance organizational performance. My role involves gathering and analyzing data, using tools such as SQL, Excel and Power BI, to uncover trends and areas for improvement. I collaborate closely with stakeholders across various departments to understand their challenges and translate them into actionable recommendations. My work supports strategic decision-making, optimizes business processes, and drives successful project outcomes, contributing to the overall growth and efficiency of the organization.
+#### Business Analyst @Freelance (March 2020 - Present)
+
+- I focus on identifying business needs and proposing data-driven solutions to enhance organizational performance. My role involves gathering and analyzing data, using tools such as SQL, Excel and Power BI, to uncover trends and areas for improvement. I collaborate closely with stakeholders across various departments to understand their challenges and translate them into actionable recommendations. My work supports strategic decision-making, optimizes business processes, and drives successful project outcomes, contributing to the overall growth and efficiency of the organization.
 
 
-#### Co-owner @Digital Center 
+#### Director of Marketing @Political Consultancy (September 2015 - Present) 
+
+- I led political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collected and categorized data to understand social phenomena, processed information, and generated key concepts for the discourse that was broadcasted across social media, television, radio, and other mass communication channels.
+
+#### Co-owner @Digital Center (January 2007 - July 2022)
 
 - Responsible for administration, digital marketing, and web design for the sale of technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
 
 
-#### Assistant to the Director of Information @Heraldo De México TV
+#### Assistant to the Director of Information @Heraldo De México TV (January 2019 - March 2020)
 
 - Day-to-day planning and content creation at El Heraldo TV. I selected the most relevant information from the print newspaper to transform it into engaging and suitable content for television and social media.
 
 
-#### Director of Marketing @Political Consultancy 
-
-- I led political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collected and categorized data to understand social phenomena, processed information, and generated key concepts for the discourse that was broadcasted across social media, television, radio, and other mass communication channels.
-
-
-#### Co-Founder @Zacate Consulting 
+#### Co-Founder @Zacate Consulting (September 2016 - September 2018)
 
 - I created innovative communication strategies based on data analysis for a diverse client portfolio, including startups like Laika Notebooks, Pinchef, and Zentik Proyect, as well as global corporations such as Coca-Cola.
 
 
-#### Deputy Director @SAGARPA 
+#### Deputy Director @SAGARPA (March 2012 - October 2015)
 
 - Served as Deputy Director of Human Resources and Materials in the department of Agriculture. I managed budgets, supervised hiring processes, and trained personnel.
 
+
 #### Professional Intern @BANAMEX
 - Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
+
 
 ## COURSES
 
@@ -61,6 +63,7 @@ Spanish: Native | English: Fluent
 - Actinver Brokerage House | Training Course in Financial Fundamental Analysis
 
 - Economatica | Training Course in Technical Stock Market Analysis
+
 
 ## NEWSPAPER COLUMNIST 
 - [Análisis de Resultados Electorales de 2018 y 2024 en México](https://politikmnte.com/2024/06/analisis-de-resultados-electorales-de-2018-y-2024-en-mexico/)
