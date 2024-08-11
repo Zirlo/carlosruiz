@@ -53,7 +53,7 @@ Spanish: Native | English: Fluent
 - Served as Deputy Director of Human Resources and Materials in the department of Agriculture. I managed budgets, supervised hiring processes, and trained personnel.
 
 
-#### Professional Intern @BANAMEX
+#### Professional Intern @BANAMEX (January 2010 - December 2010)
 - Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
 
 
