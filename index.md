@@ -30,11 +30,11 @@ Spanish: Native | English: Fluent
 
 #### Director of Marketing @Political Consultancy (September 2015 - Present) 
 
-- I led political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collected and categorized data to understand social phenomena, processed information, and generated key concepts for the discourse that was broadcasted across social media, television, radio, and other mass communication channels.
+- I lead political marketing campaigns, designing and executing strategies to increase candidates' visibility and media impact. I collect and categorize data to understand social phenomena, process information, and generate key concepts for the discourse that is broadcasted across social media, television, radio, and other mass communication channels.
 
 #### Co-owner @Digital Center (January 2007 - July 2022)
 
-- Responsible for administration, digital marketing, and web design for the sale of technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
+- I was responsible for administration, digital marketing, and web design for the sale of technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
 
 
 #### Assistant to the Director of Information @Heraldo De México TV (January 2019 - March 2020)
