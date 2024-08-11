@@ -64,7 +64,7 @@ Spanish: Native | English: Fluent
 -  [Pinchef](https://www.instagram.com/pinchefmx/)
 -  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
 -  [Primavera](https://www.instagram.com/primavera.mx/)
--  [The Coca-Cola Company](https://www.coca-cola.com/mx/es))
+-  [The Coca-Cola Company](https://www.coca-cola.com/mx/es)
 -  [Chedraui Mexican Supermarket Company](https://www.chedraui.com.mx/)
 
 **Services**
@@ -84,7 +84,7 @@ Spanish: Native | English: Fluent
 
 - _Economatica_ | Training Course in Technical Stock Market Analysis
   
-- _Universidad Pontificia Comillas de Madrid_ | Elective Class - Political Communication and Campaign Management
+- _Universidad Pontificia Comillas de Madrid_ | Elective Class in Political Communication and Campaign Management
 
 
 ## NEWSPAPER COLUMNIST 
