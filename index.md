@@ -19,7 +19,7 @@ Spanish: Native | English: Fluent
 
 ## PROFESSIONAL EXPERIENCE 
 
-#### Instructor @_Universidad Autónoma de sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (February 20222 - Present)
+#### Instructor @_Universidad Autónoma de Sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (February 20222 - Present)
 
 - I teach courses in various fields, including Administration, Finance, Marketing, Economics, and Politics.
 
