@@ -35,7 +35,7 @@ Spanish: Native | English: Fluent
 
 #### Co-owner @Digital Center (January 2007 - July 2022)
 
-- I was responsible of administration, digital marketing, and web design for selling technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experience and their culture.
+- Built a company that remained in the market for 15 years. I was responsible for administration, digital marketing, and web design for the sale of technological components focused on computer assembly. I led a team that consistently provided innovative solutions using design thinking to understand users' experiences and their culture.
 
 
 #### Assistant to the Director of Information @Heraldo De México TV (January 2019 - March 2020)
@@ -54,7 +54,7 @@ Spanish: Native | English: Fluent
 
 
 #### Professional Intern @BANAMEX (January 2010 - December 2010)
-- Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
+- Completed my professional internship at Mexico's National Bank before it became part of Citi Group. I was part of the team in the Corporate and Institutional Banking area, where I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
 
 
 ## CLIENTS & COLLABORATORS
