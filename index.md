@@ -45,7 +45,7 @@ Spanish: Native | English: Fluent
 
 #### Co-Founder @Zacate Consulting (September 2016 - September 2018)
 
-- I created innovative communication strategies based on data analysis for a diverse client portfolio, including startups like [Laika Notebooks](https://www.instagram.com/laikanotebooks/), [Pinchef](https://www.instagram.com/pinchefmx/), and [Zentik Proyect](https://www.instagram.com/zentikproject/),as well as national and global corporations such as Coca-Cola, [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en), [Primavera](https://www.instagram.com/primavera.mx/) and Chedraui. 
+- Created innovative communication strategies tailored to the unique needs of each client. For emerging startups, I focused on building brand identity and market presence from the ground up, utilizing data-driven insights to craft targeted messaging that resonated with their specific audiences. For larger national and global corporations, I applied a more comprehensive approach, integrating cross-channel marketing efforts that aligned with their established brand values while addressing market trends and consumer behavior. My strategies included everything from digital marketing campaigns to traditional media outreach, ensuring consistent and impactful communication across all platforms. Through data analysis, I identified key opportunities and optimized campaigns for maximum engagement and return on investment.
 
 
 #### Deputy Director @SAGARPA (March 2012 - October 2015)
