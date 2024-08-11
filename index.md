@@ -57,6 +57,25 @@ Spanish: Native | English: Fluent
 - Part of the team in the Corporate and Institutional Banking area. I managed and followed up on credits, contracts, and post-sale services for electronic banking products.
 
 
+## CLIENTS & COLLABORATORS
+
+**Products**
+-  [Laika Notebooks](https://www.instagram.com/laikanotebooks/)
+-  [Pinchef](https://www.instagram.com/pinchefmx/)
+-  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
+-  [Primavera](https://www.instagram.com/primavera.mx/)
+-  [The Coca-Cola Company](https://www.coca-cola.com/mx/es))
+-  [Chedraui Mexican Supermarket Company](https://www.chedraui.com.mx/)
+
+**Services**
+-  [Zentik Proyect](https://www.instagram.com/zentikproject/)
+-  [Extractive Industries Transparency Initiative (EITI)](https://eiti.org/)
+
+**Politics**
+-  [Partido Revolucionario Institucional](https://pri.org.mx/ElPartidoDeMexico/)
+-  [Movimiento Ciudadano](https://movimientociudadano.mx/)
+
+
 ## COURSES
 
 - Disney Institute Business Programs | Disney by Design & Innovation in Action
