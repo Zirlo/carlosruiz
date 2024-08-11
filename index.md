@@ -45,7 +45,7 @@ Spanish: Native | English: Fluent
 
 #### Co-Founder @Zacate Consulting (September 2016 - September 2018)
 
-- Created innovative communication strategies tailored to the unique needs of each client. For emerging startups, I focused on building brand identity and market presence from the ground up, utilizing data-driven insights to craft targeted messaging that resonated with their specific audiences. For larger national and global corporations, I applied a more comprehensive approach, integrating cross-channel marketing efforts that aligned with their established brand values while addressing market trends and consumer behavior. My strategies included everything from digital marketing campaigns to traditional media outreach, ensuring consistent and impactful communication across all platforms. Through data analysis, I identified key opportunities and optimized campaigns for maximum engagement and return on investment.
+- Created innovative communication strategies tailored to the unique needs of each client. For emerging startups, I focused on building brand identity and market presence from the ground up, utilizing data-driven insights to craft targeted messaging that resonated with their specific audiences. For larger national and global corporations, I applied a more comprehensive approach, integrating cross-channel marketing efforts that aligned with their established brand values while addressing market trends and consumer behavior. My strategies included everything from digital marketing campaigns to traditional media outreach, ensuring consistent and impactful communication across all platforms.
 
 
 #### Deputy Director @SAGARPA (March 2012 - October 2015)
