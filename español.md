@@ -22,7 +22,7 @@ Español: Nativo | Inglés: Fluido
 
 - Imparto cursos en diversas áreas, incluyendo Administración, Finanzas, Mercadotecnia, Economía y Política.
 
-#### Analista de Negocios @Freelance (Marzo 2020 - Presente)
+#### Analista de Negocios @Freelance (Presente)
 
 - Me enfoco en identificar las necesidades del negocio y proponer soluciones basadas en datos para mejorar el rendimiento organizacional. Mi rol implica recopilar y analizar datos utilizando herramientas como SQL, Excel y Power BI para descubrir tendencias y áreas de mejora. Colaboro estrechamente con las partes interesadas de varios departamentos para comprender sus desafíos y traducirlos en recomendaciones accionables. Mi trabajo apoya la toma de decisiones estratégicas, optimiza los procesos empresariales y contribuye al éxito de los proyectos, lo que impulsa el crecimiento y la eficiencia de la organización.
 
