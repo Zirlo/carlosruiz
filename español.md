@@ -50,7 +50,7 @@ Español: Nativo | Inglés: Fluido
 
 - Completé mis prácticas profesionales en el Banco Nacional de México antes de que se convirtiera en parte de Citibank. Formé parte del equipo del área de Banca Empresarial e Institucional, donde gestioné y di seguimiento a créditos, contratos y servicios postventa de productos de banca electrónica.
 
-## CLIENTES Y COLABORADORES
+## EX CLIENTES Y COLABORADORES
 
 **Productos**
 -  [_The Coca-Cola Company_](https://www.coca-cola.com/mx/es)
