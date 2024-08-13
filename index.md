@@ -58,7 +58,7 @@ Spanish: Native | English: Fluent
 - Completed my professional internship at Mexico's National Bank before it became part of Citibank. I was part of the team in the Corporate and Institutional Banking area, where I managed and followed up on credits, contracts and post-sale services for electronic banking products.
 
 
-## CLIENTS & COLLABORATORS
+## FORMER CLIENTS & COLLABORATORS
 
 **Products**
 -  [The Coca-Cola Company](https://www.coca-cola.com/mx/es)
