@@ -44,7 +44,7 @@ Español: Nativo | Inglés: Fluido
 
 #### Subdirector @SAGARPA (Marzo 2012 - Octubre 2015)
 
-- Desempeñé el cargo de Subdirector de Recursos Humanos y Materiales en la Secretaría de Agricultura. Administré presupuestos, supervisé los procesos de contratación y capacité al personal.
+- Desempeñé el cargo de Subdirector de Recursos Humanos y Materiales en la Secretaría de Agricultura. Administré presupuesto, supervisé los procesos de contratación y capacité al personal.
 
 #### Prácticas Profesionales @BANAMEX (Enero 2010 - Diciembre 2010)
 
@@ -58,13 +58,13 @@ Español: Nativo | Inglés: Fluido
 -  [_Laika Notebooks_](https://www.instagram.com/laikanotebooks/)
 -  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
 -  [Primavera](https://www.instagram.com/primavera.mx/)
--  [Pinchef](https://www.instagram.com/pinchefmx/)
 
 
 
 **Servicios**
 -  [_Extractive Industries Transparency Initiative_](https://eiti.org/)
 -  [_Zentik Proyect_](https://www.instagram.com/zentikproject/)
+-  [Pinchef](https://www.instagram.com/pinchefmx/)
 
 
 **Política**
