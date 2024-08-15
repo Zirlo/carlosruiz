@@ -48,7 +48,7 @@ Español: Nativo | Inglés: Fluido
 
 #### Prácticas Profesionales @BANAMEX (Enero 2010 - Diciembre 2010)
 
-- Completé mis prácticas profesionales en el Banco Nacional de México antes de que se convirtiera en parte de Citibank. Formé parte del equipo del área de Banca Empresarial e Institucional, donde gestioné y di seguimiento a créditos, contratos y servicios postventa de productos de banca electrónica.
+- Completé mis prácticas profesionales en el Banco Nacional de México. Formé parte del equipo del área de Banca Empresarial e Institucional, donde gestioné y di seguimiento a créditos, contratos y servicios postventa de productos de banca electrónica.
 
 ## EX CLIENTES Y COLABORADORES
 
