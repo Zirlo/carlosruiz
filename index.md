@@ -66,12 +66,12 @@ Spanish: Native | English: Fluent
 -  [Laika Notebooks](https://www.instagram.com/laikanotebooks/)
 -  [Philadelphia](https://www.instagram.com/philadelphiamx/?hl=en)
 -  [Primavera](https://www.instagram.com/primavera.mx/)
--  [Pinchef](https://www.instagram.com/pinchefmx/)
 
 
 **Services**
 -  [Extractive Industries Transparency Initiative](https://eiti.org/)
 -  [Zentik Proyect](https://www.instagram.com/zentikproject/)
+-  [Pinchef](https://www.instagram.com/pinchefmx/)
 
 
 **Politics**
