@@ -3,56 +3,59 @@
 # ANALISTA DE NEGOCIOS Y ESTRATEGA DE MARKETING
 
 ## EDUCACIÓN
-UNAM Universidad Nacional Autónoma de México 	 |    	Licenciatura en Filosofía 			    (2024)
-ITESM Tec de Monterrey - Campus Sinaloa            	 |	Licenciatura en Administración Financiera 	    (2012)
-IPADE Universidad Pontificia Comillas de Madrid     	 |      	Especialidad en Relaciones Internacionales 	    (2011)
+- UNAM Universidad Nacional Autónoma de México 	 |    	Licenciatura en Filosofía 			    (2024)
+- ITESM Tec de Monterrey - Campus Sinaloa            	 |	Licenciatura en Administración Financiera 	    (2012)
+- IPADE Universidad Pontificia Comillas de Madrid     	 |      	Especialidad en Relaciones Internacionales 	    (2011)
 
 ## HABILIDADES
 Software: Excel, Google Analytics, Power BI, Microsoft Cloud, Adobe Creative   |    Idiomas: Español Nativo,  Inglés Fluido
 
 ## ENSEÑANZA
-Profesor @Universidad Autónoma de Sinaloa, Universidad San Sebastián y Universidad San Miguel	           (Presente) 
-Docente interdisciplinario, enseño materias de: administración, finanzas, mercadotecnia, economía y política.
-Investigador de filosofía de la ciencia con enfoque en inteligencia humana e inteligencia artificial.
+
+#### Profesor @Universidad Autónoma de Sinaloa, Universidad San Sebastián y Universidad San Miguel	           (Presente) 
+- Docente interdisciplinario, enseño materias de: administración, finanzas, mercadotecnia, economía y política.
+- Investigador de filosofía de la ciencia con enfoque en inteligencia humana e inteligencia artificial.
 
 ## EXPERIENCIA PROFESIONAL
+
 #### Analista de Negocios @iha					  				       (Jul 2022 - Presente)
-Experto en interpretar información. Uso herramientas de análisis de datos para descubrir tendencias.
-Identifico problemas e integro soluciones para mejorar el rendimiento comercial y financiero.
+- Experto en interpretar información. Uso herramientas de análisis de datos para descubrir tendencias.
+- Identifico problemas e integro soluciones para mejorar el rendimiento comercial y financiero.
 
 #### Analista de Datos y Estratega de Marketing @freelance	     	          		           	      (Oct 2015 - Jun 2024)
-Dirigí estrategias de marketing político a +2,000 campañas a nivel local y federal. 
-Recopilé, procesé y categoricé data para comprender fenómenos sociales. 
-Conceptualicé ideas y escribí discursos para las masas. 
+- Dirigí estrategias de marketing político a +2,000 campañas a nivel local y federal. 
+- Recopilé, procesé y categoricé data para comprender fenómenos sociales. 
+- Conceptualicé ideas y escribí discursos para las masas. 
 
 #### Copropietario @Digital Center 					            		 	     	      (Ene 2007 - Jul 2022)
-Construí una empresa que permaneció en el mercado durante 15 años. 
-Desarrollé e-commerce para la venta de componentes tecnológicos enfocados en el armado de computadoras. 
-Utilicé design thinking para diseñar la experiencia de usuario y comprender su interacción tecnocultural.  
-Generé un ecosistema digital de nicho gamer en colaboración con El Gran Premio de México de la Fórmula 1.
+- Construí una empresa que permaneció en el mercado durante 15 años. 
+- Desarrollé e-commerce para la venta de componentes tecnológicos enfocados en el armado de computadoras. 
+- Utilicé design thinking para diseñar la experiencia de usuario y comprender su interacción tecnocultural.  
+- Generé un ecosistema digital de nicho gamer en colaboración con El Gran Premio de México de la Fórmula 1.
 
 #### Asistente del Director de Información @Heraldo de México 	   	             		    (Ene 2019 - Mar 2020)
-Planifiqué diariamente la creación de contenido en El Heraldo TV. 
-Seleccioné información relevante del periódico impreso y noticias trend, para transformarla en contenido atractivo y adecuado, para su reproducción en la mediosfera. 
+- Planifiqué diariamente la creación de contenido en El Heraldo TV. 
+- Seleccioné información relevante del periódico impreso y noticias trend, para transformarla en contenido atractivo y adecuado, para su reproducción en la mediosfera. 
 
 #### Cofundador @Zacate Consulting 			          		             		    (Sep 2016 - Sep 2018)
-Inventé campañas de micro-marketing, contemplando los valores de la marca, tendencias del mercado y el comportamiento del consumidor, para empresas nacionales como Coca-Cola y Chedraui. 
-Mejoré experiencias de usuario y digitalicé procesos de startups como: Zentik Project, Laika Notebooks y Pinchef. 
+- Inventé campañas de micro-marketing, contemplando los valores de la marca, tendencias del mercado y el comportamiento del consumidor, para empresas nacionales como Coca-Cola y Chedraui. 
+- Mejoré experiencias de usuario y digitalicé procesos de startups como: Zentik Project, Laika Notebooks y Pinchef. 
 
 #### Subdirector @SAGARPA    						                		     (Mar 2012 - Oct 2015)
-Desempeñé el cargo federal de Subdirector de Recursos Humanos y Materiales en la Subsecretaria de Agricultura.
-Administré presupuesto, supervisé procesos de contrataciones y capacité personal.
+- Desempeñé el cargo federal de Subdirector de Recursos Humanos y Materiales en la Subsecretaria de Agricultura.
+- Administré presupuesto, supervisé procesos de contrataciones y capacité personal.
 
 #### Practicante Profesional @BANAMEX				                	  		     (Ene 2010 - Dic 2010)
-Gestioné créditos y contratos en el área de Banca Empresarial e Institucional del Banco Nacional de México. 
-Atendí servicios post-venta de productos de banca electrónica.
+- Gestioné créditos y contratos en el área de Banca Empresarial e Institucional del Banco Nacional de México. 
+- Atendí servicios post-venta de productos de banca electrónica.
 
 ## CURSOS
-_Microsoft Learn 					|	Power BI & Excel_
-_Disney Institute Business Programs 		| 	Disney by Design & Innovation in Action_
-Universidad Pontificia Comillas de Madrid		| 	Clase Optativa Political _Marketing and Campaign Management_
-Casa de Bolsa Actinver Guadalajara		| 	Capacitación en Análisis Fundamental
-Economatica 					| 	Capacitación en Análisis Técnico Bursátil
+
+- _Microsoft Learn 					|	Power BI & Excel_
+- _Disney Institute Business Programs 		| 	Disney by Design & Innovation in Action_
+- Universidad Pontificia Comillas de Madrid		| 	Clase Optativa Political _Marketing and Campaign Management_
+- Casa de Bolsa Actinver Guadalajara		| 	Capacitación en Análisis Fundamental
+- Economatica 					| 	Capacitación en Análisis Técnico Bursátil
 
 ## EX CLIENTES Y COLABORADORES
 
