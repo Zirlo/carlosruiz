@@ -3,52 +3,56 @@
 # ANALISTA DE NEGOCIOS Y ESTRATEGA DE MARKETING
 
 ## EDUCACIÓN
-
-- Universidad Nacional Autónoma de México | Licenciatura en Filosofía (2022)
-
-- Instituto Tecnológico y de Estudios Superiores de Monterrey | Licenciatura en Administración Financiera (2012)
-
-- Universidad Pontificia Comillas de Madrid | Especialización en Relaciones Internacionales (2011)
+UNAM Universidad Nacional Autónoma de México 	 |    	Licenciatura en Filosofía 			    (2024)
+ITESM Tec de Monterrey - Campus Sinaloa            	 |	Licenciatura en Administración Financiera 	    (2012)
+IPADE Universidad Pontificia Comillas de Madrid     	 |      	Especialidad en Relaciones Internacionales 	    (2011)
 
 ## HABILIDADES
-**Excel, Google Workspace, Power BI, SQL, WIX**
+Software: Excel, Google Analytics, Power BI, Microsoft Cloud, Adobe Creative   |    Idiomas: Español Nativo,  Inglés Fluido
 
-## IDIOMAS
-Español: Nativo | Inglés: Fluido
+## ENSEÑANZA
+Profesor @Universidad Autónoma de Sinaloa, Universidad San Sebastián y Universidad San Miguel	           (Presente) 
+Docente interdisciplinario, enseño materias de: administración, finanzas, mercadotecnia, economía y política.
+Investigador de filosofía de la ciencia con enfoque en inteligencia humana e inteligencia artificial.
 
-## EXPERIENCIA PROFESIONAL 
+## EXPERIENCIA PROFESIONAL
+#### Analista de Negocios @iha					  				       (Jul 2022 - Presente)
+Experto en interpretar información. Uso herramientas de análisis de datos para descubrir tendencias.
+Identifico problemas e integro soluciones para mejorar el rendimiento comercial y financiero.
 
-#### Profesor @_Universidad Autónoma de Sinaloa, @Universidad San Sebastián & @Universidad San Miguel_ (Febrero 2022 - Presente)
+#### Analista de Datos y Estratega de Marketing @freelance	     	          		           	      (Oct 2015 - Jun 2024)
+Dirigí estrategias de marketing político a +2,000 campañas a nivel local y federal. 
+Recopilé, procesé y categoricé data para comprender fenómenos sociales. 
+Conceptualicé ideas y escribí discursos para las masas. 
 
-- Imparto cursos en diversas áreas, incluyendo Administración, Finanzas, Mercadotecnia, Economía y Política.
+#### Copropietario @Digital Center 					            		 	     	      (Ene 2007 - Jul 2022)
+Construí una empresa que permaneció en el mercado durante 15 años. 
+Desarrollé e-commerce para la venta de componentes tecnológicos enfocados en el armado de computadoras. 
+Utilicé design thinking para diseñar la experiencia de usuario y comprender su interacción tecnocultural.  
+Generé un ecosistema digital de nicho gamer en colaboración con El Gran Premio de México de la Fórmula 1.
 
-#### Analista de Negocios @Freelance (Presente)
+#### Asistente del Director de Información @Heraldo de México 	   	             		    (Ene 2019 - Mar 2020)
+Planifiqué diariamente la creación de contenido en El Heraldo TV. 
+Seleccioné información relevante del periódico impreso y noticias trend, para transformarla en contenido atractivo y adecuado, para su reproducción en la mediosfera. 
 
-- Me enfoco en identificar las necesidades del negocio y proponer soluciones basadas en datos para mejorar el rendimiento organizacional. Mi rol implica recopilar y analizar datos utilizando herramientas como SQL, Excel y Power BI para descubrir tendencias y áreas de mejora. Colaboro estrechamente con las partes interesadas de varios departamentos para comprender sus desafíos y traducirlos en recomendaciones accionables. Mi trabajo apoya la toma de decisiones estratégicas, optimiza los procesos empresariales y contribuye al éxito de los proyectos, lo que impulsa el crecimiento y la eficiencia de la organización.
+#### Cofundador @Zacate Consulting 			          		             		    (Sep 2016 - Sep 2018)
+Inventé campañas de micro-marketing, contemplando los valores de la marca, tendencias del mercado y el comportamiento del consumidor, para empresas nacionales como Coca-Cola y Chedraui. 
+Mejoré experiencias de usuario y digitalicé procesos de startups como: Zentik Project, Laika Notebooks y Pinchef. 
 
-#### Director de Marketing @Consultoría Política (Septiembre 2015 - Presente)
+#### Subdirector @SAGARPA    						                		     (Mar 2012 - Oct 2015)
+Desempeñé el cargo federal de Subdirector de Recursos Humanos y Materiales en la Subsecretaria de Agricultura.
+Administré presupuesto, supervisé procesos de contrataciones y capacité personal.
 
-- Dirijo campañas de marketing político, diseñando y ejecutando estrategias para aumentar la visibilidad y el impacto mediático de los candidatos. Recopilo y categorizo datos para comprender fenómenos sociales, proceso información y genero conceptos clave para el discurso que se transmite en redes sociales, televisión, radio y otras fuentes de comunicación masiva.
+#### Practicante Profesional @BANAMEX				                	  		     (Ene 2010 - Dic 2010)
+Gestioné créditos y contratos en el área de Banca Empresarial e Institucional del Banco Nacional de México. 
+Atendí servicios post-venta de productos de banca electrónica.
 
-#### Copropietario @Digital Center (Enero 2007 - Julio 2022)
-
-- Construí una empresa que permaneció en el mercado durante 15 años. Fui responsable de la administración, marketing digital y diseño web para la venta de componentes tecnológicos enfocados en el armado de computadoras. Lideré un equipo que proporcionó consistentemente soluciones innovadoras mediante el proceso _design thinking_ para comprender la experiencia de los usuarios y su cultura.
-
-#### Asistente del Director de Información @Heraldo de México TV (Enero 2019 - Marzo 2020)
-
-- Participé en la planificación diaria y creación de contenido en El Heraldo TV. Seleccioné la información más relevante del periódico impreso para transformarla en contenido atractivo y adecuado para la televisión y redes sociales.
-
-#### Cofundador @Zacate Consulting (Septiembre 2016 - Septiembre 2018)
-
-- Creé estrategias de comunicación innovadoras adaptadas a las necesidades únicas para diferentes tipos de clientes. Para startups emergentes, me enfoqué en construir la identidad de marca y la presencia en el mercado desde cero; utilizando insights basados en datos para elaborar mensajes dirigidos que resonaran con sus audiencias específicas. Para grandes corporaciones nacionales y globales, apliqué un enfoque más integral, integrando esfuerzos de marketing multicanal que alinearan los valores establecidos de la marca con las tendencias del mercado y el comportamiento del consumidor. Mis estrategias incluyeron desde campañas de marketing digital hasta alcance mediático tradicional, asegurando una comunicación coherente e impactante en todas las plataformas.
-
-#### Subdirector @SAGARPA (Marzo 2012 - Octubre 2015)
-
-- Desempeñé el cargo de Subdirector de Recursos Humanos y Materiales en la Secretaría de Agricultura. Administré presupuesto, supervisé los procesos de contratación y capacité al personal.
-
-#### Prácticas Profesionales @BANAMEX (Enero 2010 - Diciembre 2010)
-
-- Completé mis prácticas profesionales en el Banco Nacional de México. Formé parte del equipo del área de Banca Empresarial e Institucional, donde gestioné y di seguimiento a créditos, contratos y servicios postventa de productos de banca electrónica.
+## CURSOS
+_Microsoft Learn 					|	Power BI & Excel_
+_Disney Institute Business Programs 		| 	Disney by Design & Innovation in Action_
+Universidad Pontificia Comillas de Madrid		| 	Clase Optativa Political _Marketing and Campaign Management_
+Casa de Bolsa Actinver Guadalajara		| 	Capacitación en Análisis Fundamental
+Economatica 					| 	Capacitación en Análisis Técnico Bursátil
 
 ## EX CLIENTES Y COLABORADORES
 
